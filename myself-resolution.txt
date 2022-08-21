@@ -3,8 +3,7 @@ myself resolution
 - Menjadi fullstack javscript, mencakup front-end dan back-end
   * belajar react js
   * belajar vue js
-  * belajar node
+  * belajar svelte
 - kedepannya saya ingin menjadi software engineer
 - belajar design figma
-- ingin belajar flutter
 - python
