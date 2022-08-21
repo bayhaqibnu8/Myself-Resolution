@@ -1,7 +1,8 @@
 myself resolution
 - Konsisten belajar bahasa pemrograman javascript
 - Menjadi fullstack javscript, mencakup front-end dan back-end
+  * belajar react js
+  * belajar vue js
 - kedepannya saya ingin menjadi software engineer
 - belajar design figma
 - ingin belajar flutter
-
